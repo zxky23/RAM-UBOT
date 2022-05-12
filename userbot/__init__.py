@@ -230,7 +230,7 @@ DEVG = [
     5181183910, #izzy
     2069649330, #coco
     1883494460, #ramadh
-    2099641918, #tod
+    5299163977, #ky
 ]
 
 # DEVS only own id
